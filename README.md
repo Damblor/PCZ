@@ -14,6 +14,7 @@ The repository contains most of the files left on my system after classes.
 > <br/>[Inżynieria Elektroniczna i Komputerowa](https://github.com/Damblor/PCZ/tree/main/Semester3/InzynieriaElektronicznaIKomputerowa)
 > <br/>[Bazy Danych](https://github.com/Damblor/PCZ)
 > <br/>[Architektura Systemów Komputerowych](https://github.com/Damblor/PCZ/tree/main/Semester3/ArchitekturaSystemowKomputerowych)
+> <br/>[TechnikaCyfrowa](https://github.com/Damblor/PCZ/tree/main/Semester3/TechnikaCyfrowa)
 
 **Semester 4**
 > [Programowanie Niskopoziomowe](https://github.com/Damblor/PCZ/tree/main/Semester4/ProgramowanieNiskopoziomowe)
